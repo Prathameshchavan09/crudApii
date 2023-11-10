@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"com.springboot.controller", "com.springboot.service" , "com.springboot.dao"})
+@ComponentScan(basePackages = {"com.springcrud.crudApii.crudApii.controller", "com.springcrud.crudApii.crudApii.service" , "com.springcrud.crudApii.crudApii.dao"})
 public class CrudApiiApplication {
 
 	public static void main(String[] args) {

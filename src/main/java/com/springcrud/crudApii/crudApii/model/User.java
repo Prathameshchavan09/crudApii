@@ -1,5 +1,4 @@
-package com.springboot.model;
-
+package com.springcrud.crudApii.crudApii.model;
 
 
 import jakarta.persistence.Entity;
@@ -64,3 +63,4 @@ public class User {
 	
 
 }
+
